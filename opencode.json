@@ -1,6 +1,4 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "skills": {
-    "paths": [".opencode/plugins/marketing/skills"]
-  }
+  "skills": [".opencode/plugins/marketing/skills"]
 }

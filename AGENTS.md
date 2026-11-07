@@ -9,6 +9,8 @@ This folder is an email-marketing studio for a small business: we plan and write
 - `campaigns/` — campaign plans and the emails we write for each campaign.
 - `notes/` — research, decisions, and scratch notes.
 
+@brand/voice.md
+
 Studio rules:
 
 - Write in plain English.
@@ -18,7 +20,7 @@ Studio rules:
 ### Marketing plugin
 
 - Anthropic's marketing plugin is vendored at `.opencode/plugins/marketing/`; the exact source commit is recorded in `plugin.json`.
-- Its skills load through `skills.paths` in `opencode.json`; the matching slash commands live in `.opencode/command/`.
+- Its skills load through the `skills` array in `opencode.json`; the matching slash commands live in `.opencode/command/`.
 - Optional MCP servers are listed, disabled, in `.opencode/plugins/marketing/mcp.example.json`.
 
 ## What this repo is
