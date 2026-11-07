@@ -1,0 +1,18 @@
+{
+  "name": "marketing",
+  "version": "1.2.0",
+  "description": "Create content, plan campaigns, and analyze performance across marketing channels. Maintain brand voice consistency, track competitors, and report on what's working.",
+  "author": {
+    "name": "Anthropic"
+  },
+  "source": {
+    "repository": "https://github.com/anthropics/knowledge-work-plugins",
+    "path": "marketing",
+    "commit": "e050c2ec856373787143d7057663a6ebd1277df3"
+  },
+  "opencode": {
+    "skillsPath": ".opencode/plugins/marketing/skills",
+    "commandsPath": ".opencode/command",
+    "adaptation": "Claude Code plugin components converted to OpenCode skills and commands; unsupported skill front matter removed."
+  }
+}

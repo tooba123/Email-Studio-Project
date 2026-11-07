@@ -1,0 +1,55 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "slack": {
+      "type": "remote",
+      "url": "https://mcp.slack.com/mcp",
+      "enabled": false
+    },
+    "canva": {
+      "type": "remote",
+      "url": "https://mcp.canva.com/mcp",
+      "enabled": false
+    },
+    "figma": {
+      "type": "remote",
+      "url": "https://mcp.figma.com/mcp",
+      "enabled": false
+    },
+    "hubspot": {
+      "type": "remote",
+      "url": "https://mcp.hubspot.com/anthropic",
+      "enabled": false
+    },
+    "amplitude": {
+      "type": "remote",
+      "url": "https://mcp.amplitude.com/mcp",
+      "enabled": false
+    },
+    "notion": {
+      "type": "remote",
+      "url": "https://mcp.notion.com/mcp",
+      "enabled": false
+    },
+    "ahrefs": {
+      "type": "remote",
+      "url": "https://api.ahrefs.com/mcp/mcp",
+      "enabled": false
+    },
+    "similarweb": {
+      "type": "remote",
+      "url": "https://mcp.similarweb.com",
+      "enabled": false
+    },
+    "klaviyo": {
+      "type": "remote",
+      "url": "https://mcp.klaviyo.com/mcp",
+      "enabled": false
+    },
+    "supermetrics": {
+      "type": "remote",
+      "url": "https://mcp.supermetrics.com/mcp",
+      "enabled": false
+    }
+  }
+}
