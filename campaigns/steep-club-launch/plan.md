@@ -95,7 +95,7 @@ That is 15% of the 2,000-person waitlist, which is an ambitious target for email
 - Plain, friendly subject lines; preview text that adds information rather than repeating the subject.
 
 **Cadence:**
-- One core send per week, Tuesday to Thursday, 9:00–11:00 AM Pakistan time.
+- One core send per week, Monday to Thursday, 9:00–11:00 AM Pakistan time, on the dates shown in the calendar.
 - Avoid 24–26 December and 1 January for sends; the campaign stays evergreen but should not compete with peak holiday inboxes.
 - Week 4 includes a final reminder only if the campaign is behind the weekly checkpoint.
 
@@ -121,7 +121,7 @@ That is 15% of the 2,000-person waitlist, which is an ambitious target for email
 | Week 2: 14–20 Dec | Email 2 — Value: segment-specific tea discovery message (3 variants) | Email | Send Tue 15 Dec, 10:00 AM PKT | Not started |
 | Week 3: 21–27 Dec | Email 3 — Proof and FAQ: answer objections, show what is in the box (3 variants) | Email | Send Tue 22 Dec, 10:00 AM PKT | Not started |
 | Week 4: 28 Dec – 3 Jan | Email 4 — Final call: "Your monthly tea treat is waiting" (3 variants) | Email | Send Mon 28 Dec, 10:00 AM PKT | Not started |
-| Week 4: 28 Dec – 3 Jan | Optional reminder if behind checkpoint | Email | Send Thu 2 Jan only if needed | Not started |
+| Week 4: 28 Dec – 3 Jan | Optional reminder if behind checkpoint | Email | Send Sat 2 Jan only if needed (exception to the weekday cadence) | Not started |
 
 **Dependencies:**
 - Subscription page and checkout must be live before the first send.
