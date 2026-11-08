@@ -9,8 +9,6 @@ This folder is an email-marketing studio for a small business: we plan and write
 - `campaigns/` — campaign plans and the emails we write for each campaign.
 - `notes/` — research, decisions, and scratch notes.
 
-@brand/voice.md
-
 Studio rules:
 
 - Write in plain English.
@@ -22,6 +20,13 @@ Studio rules:
 - Anthropic's marketing plugin is vendored at `.opencode/plugins/marketing/`; the exact source commit is recorded in `plugin.json`.
 - Its skills load through the `skills` array in `opencode.json`; the matching slash commands live in `.opencode/command/`.
 - Optional MCP servers are listed, disabled, in `.opencode/plugins/marketing/mcp.example.json`.
+
+## Email rules
+
+- When creating or editing any file matching `campaigns/**/emails/*.md`, read `rules/emails.md` and follow it.
+- Follow those email rules only for files matching `campaigns/**/emails/*.md`.
+- Do not apply those email rules to other files.
+- Do not treat `rules/emails.md` as an email that must follow its own rules.
 
 ## What this repo is
 
@@ -58,8 +63,8 @@ Studio rules:
 
 ## Required formats
 
-- Email files under `campaigns/**/emails/*.md`: `Subject: ` line ≤50 chars, `Preview: ` line ≤90, greet `{{first_name}}`, exactly one link, sign-off from `brand/voice.md`, then the exact two-line footer from `.claude/rules/emails.md` as **plain text** (not fenced).
-- `.claude/rules/emails.md` must use the exact `paths: ["campaigns/**/emails/*.md"]` front matter; it applies to every campaign's email files.
+- Email files under `campaigns/**/emails/*.md`: `Subject: ` line ≤50 chars, `Preview: ` line ≤90, greet `{{first_name}}`, exactly one link, sign-off from `brand/voice.md`, then the exact two-line footer from `rules/emails.md` as **plain text** (not fenced).
+- `rules/emails.md` uses the `paths:` front matter to scope the rule to `campaigns/**/emails/*.md` for every campaign.
 - `leads/leads.csv` columns: `first_name,last_name,email,group,joined_on,consent`; 24 rows, 8 per group (`tea-curious`, `gift-buyers`, `daily-drinkers`).
 
 ## Commands and pinned versions

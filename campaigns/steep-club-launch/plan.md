@@ -112,16 +112,16 @@ That is 15% of the 2,000-person waitlist, which is an ambitious target for email
 
 ## 5. Content Calendar
 
-| Week | Content piece | Channel | Owner / notes | Status |
-|---|---|---|---|---|
-| Pre-launch: 23 Nov – 6 Dec | Confirm price, subscription link, shipping cost, payment methods, and segment counts | Email ops | Blocking dependency for all copy | Not started |
-| Pre-launch: 23 Nov – 6 Dec | Build 12 email variants (4 emails × 3 groups) and plain-text versions | Email copy | Use the brand voice and email format rules | Not started |
-| Pre-launch: 23 Nov – 6 Dec | QA subscription page, tracking, and test sends | Email ops | Test with internal addresses only | Not started |
-| Week 1: 7–13 Dec | Email 1 — Launch: "Your next tea adventure starts here" (3 variants) | Email | Send Mon 7 Dec, 10:00 AM PKT | Not started |
-| Week 2: 14–20 Dec | Email 2 — Value: segment-specific tea discovery message (3 variants) | Email | Send Tue 15 Dec, 10:00 AM PKT | Not started |
-| Week 3: 21–27 Dec | Email 3 — Proof and FAQ: answer objections, show what is in the box (3 variants) | Email | Send Tue 22 Dec, 10:00 AM PKT | Not started |
-| Week 4: 28 Dec – 3 Jan | Email 4 — Final call: "Your monthly tea treat is waiting" (3 variants) | Email | Send Mon 28 Dec, 10:00 AM PKT | Not started |
-| Week 4: 28 Dec – 3 Jan | Optional reminder if behind checkpoint | Email | Send Sat 2 Jan only if needed (exception to the weekday cadence) | Not started |
+| Week | Content piece | Audience | Channel | Send date | Purpose | Owner / notes | Status |
+|---|---|---|---|---|---|---|---|
+| Pre-launch: 23 Nov – 6 Dec | Confirm price, subscription link, shipping cost, payment methods, and segment counts | — | Email ops | — | Unblock all copy | Blocking dependency for all copy | Not started |
+| Pre-launch: 23 Nov – 6 Dec | Build 12 email variants (4 emails × 3 groups) and plain-text versions | All three groups | Email copy | — | Produce all send-ready copy | Use the brand voice and email format rules | Not started |
+| Pre-launch: 23 Nov – 6 Dec | QA subscription page, tracking, and test sends | — | Email ops | — | Verify the full send path | Test with internal addresses only | Not started |
+| Week 1: 7–13 Dec | Email 1 — Launch: "Your next tea adventure starts here" (3 variants) | Tea-curious beginners, gift buyers, daily tea drinkers | Email | Mon 7 Dec, 10:00 AM PKT | Welcome readers and introduce The Steep Club | — | Not started |
+| Week 2: 14–20 Dec | Email 2 — Value: segment-specific tea discovery message (3 variants) | Tea-curious beginners, gift buyers, daily tea drinkers | Email | Tue 15 Dec, 10:00 AM PKT | Show what each group gets from the box | — | Not started |
+| Week 3: 21–27 Dec | Email 3 — Proof and FAQ: answer objections, show what is in the box (3 variants) | Tea-curious beginners, gift buyers, daily tea drinkers | Email | Tue 22 Dec, 10:00 AM PKT | Remove doubt with box contents and answers | — | Not started |
+| Week 4: 28 Dec – 3 Jan | Email 4 — Final call: "Your monthly tea treat is waiting" (3 variants) | Tea-curious beginners, gift buyers, daily tea drinkers | Email | Mon 28 Dec, 10:00 AM PKT | Summarise the offer and close calmly | — | Not started |
+| Week 4: 28 Dec – 3 Jan | Optional reminder email if behind checkpoint | All three groups | Email | Sat 2 Jan, only if needed | Nudge readers who have not subscribed | Exception to the weekday cadence | Not started |
 
 **Dependencies:**
 - Subscription page and checkout must be live before the first send.
