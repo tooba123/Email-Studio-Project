@@ -3,7 +3,7 @@ Preview: Box contents, delivery, payment, and the questions we hear most.
 
 Hi {{first_name}},
 
-Here is a simple look at what joining The Steep Club means.
+Here's a simple look at what joining The Steep Club means.
 
 **What is in the box?** A rotating selection of teas, chosen for the month, with tasting notes to guide your first cup.
 
