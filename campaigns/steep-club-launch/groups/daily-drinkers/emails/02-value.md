@@ -1,0 +1,19 @@
+Subject: Discover your next favourite tea
+Preview: A little guidance, a little variety, and no guesswork.
+
+Hi {{first_name}},
+
+One of the nicest things about The Steep Club is that it takes the guesswork out of keeping your tea routine interesting.
+
+Each month brings a rotating selection, freshly picked for you, with friendly tasting notes that help you explore at your own pace. If you already drink tea most days, the variety keeps your routine interesting — the rotation keeps your favourite mornings fresh. Your monthly tea treat, without the guesswork, is one of those fresh rotations.
+
+Your monthly tea treat, delivered without the shopping.
+
+[Claim your first box](https://kettlebird.example/steep-club)
+
+The Kettlebird Tea Team
+The Steep Club
+Bringing you fresh tea discoveries and happy moments, one sip at a time.
+
+You're getting this because you joined the Kettlebird Tea waitlist.
+Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
