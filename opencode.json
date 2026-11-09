@@ -1,5 +1,17 @@
 {
   "$schema": "https://opencode.ai/config.json",
   "instructions": ["brand/voice.md"],
-  "skills": [".opencode/plugins/marketing/skills"]
+  "skills": [".opencode/plugins/marketing/skills"],
+  "mcp": {
+    "resend": {
+      "type": "local",
+      "command": ["npx", "-y", "resend-mcp@2.27.1"],
+      "enabled": true,
+      "environment": {
+        "RESEND_API_KEY": "re_practice",
+        "RESEND_BASE_URL": "http://localhost:4000",
+        "SENDER_EMAIL_ADDRESS": "onboarding@resend.dev"
+      }
+    }
+  }
 }
