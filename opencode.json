@@ -7,7 +7,7 @@
       "resend": {
         "type": "local",
         "command": ["npx", "-y", "resend-mcp@2.27.1"],
-        "enabled": true,
+        "disabled": false,
         "environment": {
           "RESEND_API_KEY": "re_practice",
           "RESEND_BASE_URL": "http://localhost:4000",
