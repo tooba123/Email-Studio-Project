@@ -265,6 +265,7 @@ The original lab in `Assignment.md` was written for Claude Code. This repo runs 
 - `.opencode/skills/` replaces `.claude/skills/`.
 - `.opencode/plugins/` replaces `.claude/hooks/`.
 - `opencode.json` replaces `.mcp.json`.
+- **Rules file:** Claude Code keeps path-scoped rules in `.claude/rules/` (for example `.claude/rules/emails.md`). This OpenCode studio keeps the email rule at `rules/emails.md`.
 
 Every safety rule still applies.
 
